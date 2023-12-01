@@ -8,6 +8,8 @@
 > - The droplet is a Debian 12 Server.
 > - You have SSH Configuration setup to your Debian server.
 
+This tutorial will guide you through creating a new user, denying root access to the server via SSH, and setting up a simple web server.
+
 ## Creating a Regular User
 
 ### Objective
