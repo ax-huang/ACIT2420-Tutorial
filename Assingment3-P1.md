@@ -4,9 +4,9 @@
 
 > #### Before you use this tutorial
 >
-> - You have created a droplet in DigitalOcean
+> - You have created a droplet in DigitalOcean.
 > - The droplet is a Debian 12 Server.
->
+> - You have SSH Configuration setup to your Debian server.
 
 ## Creating a Regular User
 
