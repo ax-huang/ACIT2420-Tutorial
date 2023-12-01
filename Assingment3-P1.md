@@ -4,7 +4,7 @@
 
 > #### Before you use this tutorial
 >
-> - You have created a droplet in DigitalOcean/
+> - You have created a droplet in DigitalOcean
 > - The droplet is a Debian 12 Server.
 >
 
